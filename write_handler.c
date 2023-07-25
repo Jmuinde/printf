@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * handle_write_char - Function to print a string
- * @c: Character data variable
+ * handle_write_char - Function to print a string.
+ * @c: Character data variable.
  * @buffer: Buffer array to handle print
  * @flags: Evaluates activee flags.
  * @width: get width.
