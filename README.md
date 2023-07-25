@@ -1,5 +1,5 @@
 
-0x11. C - Team Project to create print f function from scratch
+0x11. C - Team Project to create print f function from scratch as per the alx requirements
                                                                       
 Team members: Muinde \& Philip
                                                                                     
