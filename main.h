@@ -19,9 +19,9 @@
 #define S_SHORT 1
 
 /**
- * struct fmt - struct data type
+ * struct fmt - struct data type.
  *
- * @fmt: member of the struct
+ * @fmt: member of the struct.
  * @fn: Member of the struct
  */
 struct fmt
