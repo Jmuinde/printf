@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * get_precision - Function to evaluate the precision for printing
- * @format: formart for the arguments
+ * get_precision - Function to evaluate the precision for printing.
+ * @format: formart for the arguments.
  * @i: List of the parameters to  be printed.
  * @list: list of parameters.
  *
