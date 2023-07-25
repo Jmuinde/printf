@@ -2,7 +2,7 @@
 
 void print_buffer(char buffer[], int *buff_ind);
 /**
- * _printf - our _printf function
+ * _printf - our _printf function.
  * @format: Pointer format.
  * Return: Printed chars.
  */
