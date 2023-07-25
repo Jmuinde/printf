@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * get_size - evaluates the size need to cast the argument
- * @format: formated string for the parameters
+ * get_size - evaluates the size need to cast the argument.
+ * @format: formated string for the parameters.
  * @i: List of parameters to be printed
  *
  * Return: Precision.
